@@ -1,2 +1,6 @@
 # Transformers-and-Generative-Models-For-Visual-Tasks-Workshop
-Bro hope this workshop is easy.
+Bro I hope this workshop is easy.
+## Layout
+- Each folder is a day of the workshop. It will contain Pre-requistes workthrough and then workshop work through
+#### Example:
+<pre> ```plaintext Day_1/ ├── Pre req/ └── Day_1.ipynb ``` </pre>
