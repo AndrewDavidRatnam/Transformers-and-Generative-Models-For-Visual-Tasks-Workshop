@@ -7,3 +7,4 @@ Bro I hope this workshop is easy.
 Day_1/
 ├── Pre req/
 └── Day_1.ipynb
+|__Readme.md
