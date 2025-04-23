@@ -1,8 +1,15 @@
-#  Day 1
+# Day 1
 
-## Given Pre-Requistes Work through:-
-- Numpy [https://cs231n.github.io/python-numpy-tutorial/]( Python, Numpy Tutoria)
-- pytorch and autogradTorch: [https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html](Autograd)
-- pytorch and computer vision: [https://www.learnpytorch.io/03_pytorch_computer_vision/](Computer Vision)
+## 📚 Pre-Requisite Workthrough
 
-## Day 1 Workshop Content
+Before starting the workshop, please go through the following resources:
+
+- [Python & NumPy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+- [PyTorch Autograd Tutorial](https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html)
+- [PyTorch Computer Vision Tutorial](https://www.learnpytorch.io/03_pytorch_computer_vision/)
+
+## 🛠️ Day 1 Workshop Content
+
+<!-- Add details or links to notebook content here -->
+- Main notebook: `Day_1.ipynb`
+- Folder: `Pre req/` (contains walkthrough materials)
